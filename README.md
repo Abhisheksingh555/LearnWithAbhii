@@ -1,2 +1,0 @@
-# LearnWithAbhii
-React Learning Series
